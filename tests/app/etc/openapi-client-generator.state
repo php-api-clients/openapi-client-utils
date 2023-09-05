@@ -1,0 +1,303 @@
+{
+    "specHash": "b34763a4d9c5c8f8174783e23496f785",
+    "generatedFiles": {
+        "files": [
+            {
+                "name": ".\/tests\/app\/src\/\/Operation\/Pets\/List_.php",
+                "hash": "1b52986d9a38fcc0651182fcbd11ffa9"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operator\/Pets\/List_.php",
+                "hash": "d5e06764de2e2b183370a5aaafb9f120"
+            },
+            {
+                "name": ".\/tests\/app\/tests\/\/Operation\/Pets\/List_Test.php",
+                "hash": "1de84e3dd5e9cbe8865c352a4b419c19"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operation\/Pets\/ListListing.php",
+                "hash": "5f0b74e0153cbbcc42e609113df3ad5a"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operator\/Pets\/ListListing.php",
+                "hash": "e19f34c5c2a982fdbc3435c068378003"
+            },
+            {
+                "name": ".\/tests\/app\/tests\/\/Operation\/Pets\/ListListingTest.php",
+                "hash": "e84630af94b23ee2f976d817e0f2230b"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operation\/Pets\/Create.php",
+                "hash": "77643dfbef4e5228641fb24a802f36e3"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operator\/Pets\/Create.php",
+                "hash": "56cf9b77dda2463da01d56f272a54fcb"
+            },
+            {
+                "name": ".\/tests\/app\/tests\/\/Operation\/Pets\/CreateTest.php",
+                "hash": "0f886fdac1ee9dcc0c65b6d44141f89c"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operation\/Pets\/List_\/Gatos.php",
+                "hash": "9eb1793cc61df8d3e2be2a2779e986a2"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operator\/Pets\/List_\/Gatos.php",
+                "hash": "17afd48cbf5aeb2828985ec1ef1f0a63"
+            },
+            {
+                "name": ".\/tests\/app\/tests\/\/Operation\/Pets\/List_\/GatosTest.php",
+                "hash": "55a2796c02d53a51fa395d79d2b82d47"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operation\/Pets\/List_\/GatosListing.php",
+                "hash": "ea926a83bcf00491d43f846d16990d12"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operator\/Pets\/List_\/GatosListing.php",
+                "hash": "84c5ee194ac9cfc0f1d2cac4fccfe97f"
+            },
+            {
+                "name": ".\/tests\/app\/tests\/\/Operation\/Pets\/List_\/GatosListingTest.php",
+                "hash": "364ef98360b60ab9076e41074f756894"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operation\/Pets\/Names.php",
+                "hash": "8de6b145ebcab2abf13a1cc5c2ffaff3"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operator\/Pets\/Names.php",
+                "hash": "b42a70d3644f4b22f0c520a3219ff9a6"
+            },
+            {
+                "name": ".\/tests\/app\/tests\/\/Operation\/Pets\/NamesTest.php",
+                "hash": "6ece3ee6680ee062a39d319c32d2910a"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operation\/Pets\/NamesListing.php",
+                "hash": "273115f7ac162b7b4f7b56cb775b50e4"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operator\/Pets\/NamesListing.php",
+                "hash": "669429923285f44f2f62c058e27eafbb"
+            },
+            {
+                "name": ".\/tests\/app\/tests\/\/Operation\/Pets\/NamesListingTest.php",
+                "hash": "ba4ec7277343ddf577a023b10d9cdc18"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operation\/ShowPetById.php",
+                "hash": "7bf1df8e08fcf4bb8b340f0f15abd8d8"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operator\/ShowPetById.php",
+                "hash": "d0f7ed4e44e0d4c854615a5f34aec9ae"
+            },
+            {
+                "name": ".\/tests\/app\/tests\/\/Operation\/ShowPetByIdTest.php",
+                "hash": "7c2ebed4bc0f0c5cb6518cb47e9c6c32"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Attribute\/CastUnionToType\/Schema\/Cat\/Eyes.php",
+                "hash": "f7f128f7b72a4c27fb860551785996d1"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Cat.php",
+                "hash": "5b9c79c0b25517098d66462aa45315dd"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Attribute\/CastUnionToType\/Schema\/Dog\/Eyes.php",
+                "hash": "a89f3f7937e507564e2886d72848e264"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Dog.php",
+                "hash": "66e3485adae911c966a0ceaf65edbc35"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Attribute\/CastUnionToType\/Schema\/Bird\/Eyes.php",
+                "hash": "8bd73cc44affd30c97993108a09f1d86"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Bird.php",
+                "hash": "f6e9003818d5b1de150e4f1b53d4d983"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Attribute\/CastUnionToType\/Schema\/Fish\/Eyes.php",
+                "hash": "c5fb5b08f19f1e8c69469b9760bd830e"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Fish.php",
+                "hash": "02750dd0423b4f3dec25aad00c366949"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Error.php",
+                "hash": "0a293e52c9ebef7df3eee361122b74bc"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Error\/Error.php",
+                "hash": "f0d0ba9484e1e17337da019e786a537b"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Legs.php",
+                "hash": "8c730391394c697d6bd906b759cf5c5e"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Tails.php",
+                "hash": "d559a5b3078034d5f7ff65a839341aaf"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Fins.php",
+                "hash": "7192fa98d753adb6ac08c254d0a43bd8"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Wings.php",
+                "hash": "4b210e4992fd7050189cb3c0c259c0d7"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/RedEyes.php",
+                "hash": "7ecdb87431cde42056dadeb6be4f8f69"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/GreenEyes.php",
+                "hash": "66edf6255393bfe237352cb6ce05dcf0"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/YellowEyes.php",
+                "hash": "4a222efd9ac10732d715bff345b70116"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/BlackEyes.php",
+                "hash": "eb71b8b444a15113088c0ad5a340e852"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/BlueEyes.php",
+                "hash": "0918d6b10495c53318120641eabcd950"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Cat\/Features.php",
+                "hash": "bd20f54244c6a36e9dd724e17d698038"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Operations\/Pets\/List_\/Response\/ApplicationJson\/Ok.php",
+                "hash": "8a7e3102b29c2b951403587f4521b868"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/AliasAbstract\/Tiet3079EDA6\/TietC8A57480\/TietAA436E3B\/Tiet0E7D3D03.php",
+                "hash": "4fcbf50d81370ba34927ce2a0ad07da7"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Operations\/ShowPetById\/Response\/ApplicationJson\/Ok.php",
+                "hash": "112874072ea0b6b0303c5215488a86c7"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Pets\/Create\/Request\/ApplicationJson.php",
+                "hash": "4d50766549242867d8da0d781e043fa4"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Schema\/Operations\/Pets\/Names\/Response\/ApplicationJson\/Ok.php",
+                "hash": "2c210d112500df3ae0671076bcb318b1"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/ClientInterface.php",
+                "hash": "31a880377bfd1045c8073884486a7f11"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Client.php",
+                "hash": "9293562fe84f77ab4ea129c82fd1e43f"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Router\/Get\/Pets.php",
+                "hash": "1fd2d2789f74f5cc247877c9a7076641"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Router\/Get\/PetsList.php",
+                "hash": "3c6413f1a6bdd8f509ed0b27bb3405af"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Router\/List\/Pets.php",
+                "hash": "aa71bff5fc6f1a06f10075ca6de99741"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Router\/List\/PetsList.php",
+                "hash": "7094cde20b9f6de276d1dbbb4dbd2baf"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Router\/Post\/Pets.php",
+                "hash": "51b996123dc285755f528f680d5d75d3"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Router\/Get\/Two.php",
+                "hash": "5d568f67586671f63d3be287c88fceb8"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Router\/Get\/Three.php",
+                "hash": "1b533c4496a7a58b1c3626110e7455b5"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Router\/List\/Two.php",
+                "hash": "0a13bba21af357741a0a0cfbb3eb2da1"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Router\/List\/Three.php",
+                "hash": "68b44592ee664f942e50253a7ba18640"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Router\/Post\/Two.php",
+                "hash": "8b6bf0563afd6c79e6df2398463a411d"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/OperationsInterface.php",
+                "hash": "e4ea2aaf111f619a3a7f42c59d5e755a"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operation\/Pets.php",
+                "hash": "31cc4b8df3a1effea19139d3863ffac4"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operation\/PetsList.php",
+                "hash": "4e4ef678bd6485e98380a3b60f9279ad"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Operations.php",
+                "hash": "1fb22bae634b423443e062dd653d4904"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Hydrator\/Operation\/Pets.php",
+                "hash": "9c2613fb27ab467b3a3c82e77b309a19"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Hydrator\/Operation\/Pets\/Gatos.php",
+                "hash": "10cb1f0c2fac7eda82dc00b877f36488"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Hydrator\/Operation\/Pets\/Names.php",
+                "hash": "187d714783653b44d86b2d03444e3ab7"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Hydrator\/Operation\/Pets\/PetId.php",
+                "hash": "301ab81fbf3f746b4f512cd6951da22a"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Hydrators.php",
+                "hash": "6dbea9f466671e1b304df02d18b5d627"
+            },
+            {
+                "name": ".\/tests\/app\/src\/\/Router\/Get.php",
+                "hash": "4acce87dd62158f7e04dfc3f3c525c33"
+            }
+        ]
+    },
+    "additionalFiles": {
+        "files": [
+            {
+                "name": "composer.json",
+                "hash": ""
+            },
+            {
+                "name": "composer.lock",
+                "hash": ""
+            }
+        ]
+    }
+}
