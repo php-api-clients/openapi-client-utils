@@ -13,7 +13,7 @@ jobs:
     container:
       image: ghcr.io/wyrihaximusnet/php:8.2-nts-alpine-dev-root
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: '0'
           persist-credentials: 'false'
@@ -33,7 +33,7 @@ jobs:
       version: ${{ steps.supported-versions-matrix.outputs.version }}
       upcoming: ${{ steps.supported-versions-matrix.outputs.upcoming }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - id: supported-versions-matrix
         uses: WyriHaximus/github-action-composer-php-versions-in-range@v1
         with:
@@ -46,7 +46,7 @@ jobs:
     outputs:
       check: ${{ steps.supported-checks-matrix.outputs.check }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Download Generated Client
         uses: actions/download-artifact@v3
         with:
@@ -76,7 +76,7 @@ jobs:
     container:
       image: ghcr.io/wyrihaximusnet/php:${{ matrix.php }}-nts-alpine-dev-root
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Required due to the way Git works, without it this action won't be able to find any or the correct tags
       - run: git config --global --add safe.directory $GITHUB_WORKSPACE # Do this ourself because `actions/checkout@v3 doesn't succeed in doing this
