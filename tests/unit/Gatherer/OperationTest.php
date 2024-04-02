@@ -20,7 +20,7 @@ final class OperationTest extends TestCase
     ];
 
     /** @return iterable<array<string>, array{docBlock: array<string>, raw: array<string>}> */
-    public function types(): iterable
+    public static function types(): iterable
     {
         yield [
             ['array{code: int}'],
