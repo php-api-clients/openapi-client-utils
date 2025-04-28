@@ -13,7 +13,7 @@
         "api-clients/contracts": "^0.1"
     },
     "require-dev": {
-        "wyrihaximus/async-test-utilities": "^8"
+        "wyrihaximus/async-test-utilities": "^8 || ^9"
     },
     "autoload": {
         "psr-4": {
